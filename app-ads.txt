@@ -1,0 +1,1 @@
+# Tile Bloom app-ads.txt. The AdMob line (google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0) is added once the AdMob account exists.
