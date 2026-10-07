@@ -1,2 +1,2 @@
-# app-ads.txt for every game published by Barış Özçelik. One AdMob publisher line covers all of them; it is added once the AdMob account exists:
-# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+# Authorized ad seller for apps published by Barış Özçelik.
+google.com, pub-9249330929404558, DIRECT, f08c47fec0942fa0
